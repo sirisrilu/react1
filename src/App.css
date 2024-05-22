@@ -1,0 +1,57 @@
+.one{
+  background-color:#274472;
+  height:1100px;
+  color:beige;
+ 
+   
+}
+.app-logo{
+  margin-top: 10px;
+  size: 100px;
+}
+.siri{
+  margin-bottom: 20px;
+}
+.two{
+  margin-top: 10px;
+  border:2px solid;
+  width:220px;
+  height:130px;
+  margin-left: 30px;
+  background-color:#274472;
+  color:white;
+  
+}
+
+.three{
+  margin-top: 10px;
+  border:2px solid;
+  width:220px;
+  height:130px;
+  margin-left: 30px;
+}
+.janu{
+  margin-bottom:1800px ;
+  display:inline-flex;
+}
+  
+ 
+
+
+.button{
+  margin-left: 200px;
+}
+.manu{
+  margin-top: 10px;
+  background-color: whitesmoke;
+  
+}
+.menu{
+  margin-top: 3%;
+}
+.child{
+  margin-top: 3%; 
+}
+.body{
+  margin-top: 3%;  
+}
